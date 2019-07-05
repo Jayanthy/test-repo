@@ -1,5 +1,4 @@
 package com.demo.shipping;
-
 public class Holidays {
 	String month;
 	String day;
